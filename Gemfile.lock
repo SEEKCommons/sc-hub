@@ -700,7 +700,7 @@ DEPENDENCIES
   yard-activesupport-concern
 
 RUBY VERSION
-   ruby 2.7.6p219
+   ruby 2.7.0
 
 BUNDLED WITH
    2.4.19
